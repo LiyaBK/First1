@@ -1,3 +1,3 @@
 print("liya")
-print("tiger")
+print("cat")
 print("sad sad sad")
